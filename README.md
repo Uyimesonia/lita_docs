@@ -1,1 +1,1 @@
-# lita_docs
+# LITA_CLASS DOCUMENTATION
